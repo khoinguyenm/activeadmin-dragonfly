@@ -2,5 +2,5 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'activeadmin', '1.0.0'
+gem 'activeadmin', '1.1.0'
 
